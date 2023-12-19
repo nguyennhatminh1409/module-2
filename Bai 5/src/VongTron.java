@@ -23,7 +23,7 @@ public class VongTron {
             }
         }
 
-        public class TestCircle {
+        class TestCircle {
             public static void main(String[] args) {
                 Circle circle = new Circle(2.0);
 
